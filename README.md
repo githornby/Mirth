@@ -1,2 +1,2 @@
 # Mirth Repository
-hello world!
+hello world
